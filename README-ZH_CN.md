@@ -11,5 +11,5 @@
 [![downloads](https://img.shields.io/github/downloads/Yishan001/ClearClipboard/total.svg?style=flat-square)](https://github.com/Yishan001/ClearClipboard/releases)
 
 # 描述
-一个纯粹的清空剪切板的工具。
+一个纯粹的清空剪切板的工具。<br>
 运行即清空，没有任何其它功能或选项。
