@@ -11,5 +11,5 @@
 [![downloads](https://img.shields.io/github/downloads/Yishan001/ClearClipboard/total.svg?style=flat-square)](https://github.com/Yishan001/ClearClipboard/releases)
 
 # Description
-A pure clear clipboard tool. 
+A pure clear clipboard tool.<br>
 Run to clear clipboard, without any other functions or options.
