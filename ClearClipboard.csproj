@@ -6,6 +6,9 @@
     <Nullable>enable</Nullable>
     <UseWPF>true</UseWPF>
     <ApplicationIcon>Clear-40.ico</ApplicationIcon>
+    <Company>https://bearit.taobao.com</Company>
+    <Authors>小熊IT</Authors>
+    <Copyright>小熊IT https://bearit.taobao.com</Copyright>
   </PropertyGroup>
 
   <ItemGroup>
